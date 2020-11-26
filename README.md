@@ -2,3 +2,7 @@
 Using linear regression to predicts wins.
 
 ### About
+
+
+### Process
+hihihi
