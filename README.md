@@ -25,9 +25,10 @@ Success of the project will be seen as how small the Root Mean Square Error (RSM
 - Weather:
    
     It can affect the travel distance of the ball. If cold, then the ball won't travel as much and may cause positive skew in a team's statsline. Viceversa for when weather is    
-    hot. 
-    
-    I also would need to look weather metrics that are considered to be cold or hot.
+    hot. I also would need to look weather metrics that are considered to be cold or hot.
     
 - Variables:
     I can consider the correlations of the variables on which ones are suited best for Games_Won  
+    
+- Model:
+    Figure out a way to get the 2015 Blue Jays RSME much lower.
