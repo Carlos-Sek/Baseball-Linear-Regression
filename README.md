@@ -4,7 +4,7 @@ Using linear regression to predicts wins.
 ### About
 Linear Regression is a statistical method that measures the relationship between variables. to predict an dependent variable (in this case: Runs) with use of a number of independent variable.
 Success of the project will be seen as how small the Root Mean Square Error (RSME) is. This indicates how many wins the prediction was off by the actual number of wins.
-
+The dataset collected was from a course that was done within my Data Analytics certificate.
 ### Process
 
 ### Improvement
